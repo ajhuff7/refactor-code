@@ -1,6 +1,6 @@
 # Refactor Code - Horiseon
 
-This refactor of Horiseon's Social Solutions Services site was cAltompleted to update all accessibility standards and confirm search engine compatibility. Meeting accessibility standards will ensure compliance with ADA rules and regulations.
+The refactor of Horiseon's Social Solutions Services site was completed to update all accessibility standards and confirm search engine compatibility. Meeting accessibility standards will ensure compliance with ADA rules and regulations.
 
 ---
 
@@ -11,15 +11,15 @@ The following updates were completed to ensure accessibilty and compliance.
 1. Page title was updated to be more specific.
 
 ```
-- "Website" updated to Horiseon - Social Solutions Services.
+- "Website" updated to "Horiseon - Social Solutions Services".
 ```
 
 2. Tags were updated with semantic HTML to be more specific.
 
 ```
-- "div" tag was updated to "header"
-- "div" tag was updated to "section"
-- "div" tag was updated to "aside"
+- Dividing "div" tag was updated to "header".
+- Dividing "div" tag was updated to "section".
+- Dividing "div" tag was updated to "aside".
 ```
 
 3. Added alt ids to all images to improve accessibility issue.
@@ -28,7 +28,7 @@ The following updates were completed to ensure accessibilty and compliance.
 - Images were updated with image descriptive ids.
 ```
 
-![Highlighted_Updates](assets\images\refactor_img.JPG)
+[Highlighted_Updates](assets\images\refactor_img.JPG)
 
 ---
 
