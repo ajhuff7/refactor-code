@@ -28,7 +28,7 @@ The following updates were completed to ensure accessibilty and compliance.
 - Images were updated with image descriptive ids.
 ```
 
-[Highlighted_Updates](assets\images\refactor_img.JPG)
+![Highlighted_Updates](https://github.com/ajhuff7/refactor-code/blob/master/assets/images/refactor_img.JPG)
 
 ---
 
